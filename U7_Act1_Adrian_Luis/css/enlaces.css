@@ -1,0 +1,26 @@
+#indice a:link{
+    color: red;
+    text-decoration: none;
+}
+#indice li>a:hover{
+    background-color: White;
+    color: red;
+    text-transform: uppercase;
+}
+#indice a:visited{
+    color: red
+    ;
+    font-style: italic;
+    text-decoration: none;
+}
+#piedepagina a:link{
+    color: red;
+    text-decoration: none;
+}
+#piedepagina a:hover{
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    color: teal;
+    font-style: normal;
+}
